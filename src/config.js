@@ -1,5 +1,5 @@
 //configuracion puerto del servidor
-export const PORT=vprocess.env.PORT || 3301;
+export const PORT=vprocess.env.PORT || 3333;
  
 //configurar datos de la conexion a la BBDD
  
